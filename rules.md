@@ -5,7 +5,7 @@ title: Rules
 
 # Rules for CF Conventions Changes
  
-<p>New proposals are to be made in github issues using the template, including verbatim changes proposed to the text of standard document and the conformance document.</p>
+<p>New proposals are to be initiated in github issues using the proposal-change-request template, including verbatim changes proposed to the text of standard document and the conformance document.</p>
 
 <p>A member of the conventions committee, or another suitably qualified person, volunteers to moderate the discussion. If no-one volunteers, the chairman of the committee will ask someone to do it.</p>
 
